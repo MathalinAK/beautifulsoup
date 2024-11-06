@@ -1,0 +1,77 @@
+Product,Article
+AWS,https://docs.infisign.io/article/133-aws-cognito-jwt-auth-flow
+AWS,https://docs.infisign.io/article/135-aws-user-provision-with-infisign
+Asana,https://docs.infisign.io/article/88-saml-2-0-configuration-for-asana-to-infisign
+Directory Integrations,https://docs.infisign.io/article/57-user-directory-azure
+Directory Integrations,https://docs.infisign.io/article/103-google-workspace-directory-integration-with-infisgn
+Directory Integrations,https://docs.infisign.io/article/107-adp-directory-integration-with-infisign
+Flutter App,https://docs.infisign.io/article/126-add-infisign-widget-to-flutter-app
+Getting Started,https://docs.infisign.io/article/109-infisign-user-onboarding
+Getting Started,https://docs.infisign.io/article/139-authentication-template
+Getting Started,https://docs.infisign.io/article/137-template
+Getting Started,https://docs.infisign.io/article/138-issue-identity
+Getting Started,https://docs.infisign.io/article/141-invite-user-to-infisign
+Getting Started,https://docs.infisign.io/article/136-schema
+Getting Started,https://docs.infisign.io/article/140-design-for-identity
+Infisign - CLI,https://docs.infisign.io/article/169-cli-installation
+Infisign - CLI,https://docs.infisign.io/article/172-cli-infisign-login
+Infisign - CLI,https://docs.infisign.io/article/177-infisign-cli-create-mpwa-web-application-with-user-assignment
+Infisign - CLI,https://docs.infisign.io/article/174-infisign-cli-create-openid-application-with-user-assignment
+Infisign - CLI,https://docs.infisign.io/article/173-infisign-cli-create-saml-application
+Infisign - CLI,https://docs.infisign.io/article/175-infisign-cli-create-mpwa-application-with-user-assignment
+Infisign - CLI,https://docs.infisign.io/article/176-infisign-cli-create-mpwa-ssh-application-with-user-assignment
+Lifecycle Management,https://docs.infisign.io/article/63-user-provisioning-netsuite
+Lifecycle Management,https://docs.infisign.io/article/70-generating-netsuite-role-master
+Lifecycle Management,https://docs.infisign.io/article/82-lcm-confirguration-for-salesforce
+Lifecycle Management,https://docs.infisign.io/article/117-life-cycle-management-for-tableau-creative-cloud
+Microsoft Azure Cloud,https://docs.infisign.io/article/57-user-directory-azure
+NetSuite,https://docs.infisign.io/article/59-configuring-saml-2-0-for-netsuite
+NetSuite,https://docs.infisign.io/article/63-user-provisioning-netsuite
+NetSuite,https://docs.infisign.io/article/70-generating-netsuite-role-master
+Network Access Gateway,https://docs.infisign.io/article/92-infisign-network-access-gateway-nag-pre-requisites-and-installation-documentation
+Oracle EBS,https://docs.infisign.io/article/96-oracle-ebs-integration
+Oracle EBS,https://docs.infisign.io/article/102-steps-to-configure-saml-2-0-with-infisign-as-idp-and-weblogic-as-sp
+Oracle EBS Access Manager,https://docs.infisign.io/article/102-steps-to-configure-saml-2-0-with-infisign-as-idp-and-weblogic-as-sp
+Oracle EBS Access Manager,https://docs.infisign.io/article/95-oracle-ebs-sso-integration
+Oracle WebLogic,https://docs.infisign.io/article/102-steps-to-configure-saml-2-0-with-infisign-as-idp-and-weblogic-as-sp
+Release Notes,https://docs.infisign.io/article/71-release-note-product-update
+Release Notes,https://docs.infisign.io/article/99-release-notes-product-update-v-2-3-1
+Salesforce,https://docs.infisign.io/article/82-lcm-confirguration-for-salesforce
+Salesforce,https://docs.infisign.io/article/76-saml-2-0-for-salesforce
+Single Sign-On,https://docs.infisign.io/article/96-oracle-ebs-integration
+Single Sign-On,https://docs.infisign.io/article/59-configuring-saml-2-0-for-netsuite
+Single Sign-On,https://docs.infisign.io/article/88-saml-2-0-configuration-for-asana-to-infisign
+Single Sign-On,https://docs.infisign.io/article/77-saml-2-0-confirguration-for-slack
+Single Sign-On,https://docs.infisign.io/article/108-saml-2-0-configuration-for-docusign-to-infisign
+Single Sign-On,https://docs.infisign.io/article/76-saml-2-0-for-salesforce
+Single Sign-On,https://docs.infisign.io/article/106-saml-20-configuration-for-adp-to-infisign
+Single Sign-On,https://docs.infisign.io/article/104-saml-2-0-configuration-for-tableau-creative-cloud-to-infisign
+Single Sign-On,https://docs.infisign.io/article/155-saml-2-0-configuration-for-zendesk-to-infisign
+Single Sign-On,https://docs.infisign.io/article/156-saml-2-0-configuration-for-sentry-to-infisign
+Single Sign-On,https://docs.infisign.io/article/105-saml-20-configuration-for-adobe-creative-cloud-to-infisign
+Single Sign-On,https://docs.infisign.io/article/117-life-cycle-management-for-tableau-creative-cloud
+Slack,https://docs.infisign.io/article/77-saml-2-0-confirguration-for-slack
+UniFed,https://docs.infisign.io/article/126-add-infisign-widget-to-flutter-app
+UniFed,https://docs.infisign.io/article/113-infisign-unifed-with-microsoft-oauth2
+UniFed,https://docs.infisign.io/article/110-infisign-unifed-with-google-oauth2-0
+UniFed,https://docs.infisign.io/article/115-infisign-unifed-integration-with-github-oauth2
+UniFed,https://docs.infisign.io/article/120-redirects-management
+UniFed,https://docs.infisign.io/article/128-condiitonal-access
+UniFed,https://docs.infisign.io/article/132-unifed-authentication-with-aws-cognito-user-pool
+UniFed,https://docs.infisign.io/article/119-unifed-schema-management
+UniFed,https://docs.infisign.io/article/127-orgnaization-management
+UniFed,https://docs.infisign.io/article/121-branding-and-widget-management
+UniFed,https://docs.infisign.io/article/145-organization-create-organization
+UniFed,https://docs.infisign.io/article/129-infisign-oauth-management
+UniFed,https://docs.infisign.io/article/142-infisign-magic-authentication
+UniFed,https://docs.infisign.io/article/146-unifed-schema
+UniFed,https://docs.infisign.io/article/148-unifed-add-users
+UniFed,https://docs.infisign.io/article/144-user-onboarding-web
+UniFed,https://docs.infisign.io/article/147-unifed-redirects
+UniFed,https://docs.infisign.io/article/143-infisign-mobilenumber-authentication
+UniFed,https://docs.infisign.io/article/149-unifed--widget
+UniFed,https://docs.infisign.io/article/190-azure-ad-sso-login-with-unifed-idp
+User Provisioning,https://docs.infisign.io/article/153-google-workspace-configuration-user-provisioning
+User Provisioning,https://docs.infisign.io/article/154-slack-lcm-user-provisioning
+User Provisioning,https://docs.infisign.io/article/152-tableau-lcm-user-provisioning
+User Provisioning,https://docs.infisign.io/article/151-zendesk-lcm-user-provisioning
